@@ -4,7 +4,7 @@ A responsive, interactive, and modern personal portfolio website to showcase my 
 
 ## 🌐 Live Demo
 
-[View Live Site]([https://your-portfolio-link.com](https://komalsalunke1234.github.io/komalsalunke.github.io/))
+[View Live Site](https://your-portfolio-link.com](https://komalsalunke1234.github.io/komalsalunke.github.io/))
 
 ## 🛠️ Tech Stack
 
